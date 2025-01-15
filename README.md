@@ -21,4 +21,4 @@ git clone https://github.com/Gastoonit/builder-discord.js.git
 mv builder-discord.js/* .
 ```
 ## Resultado:
-![Screenshot](https://media.discordapp.net/attachments/806003708591996968/1147003160469176471/Screenshot_20230901_000042_Discord.jpg)
+![Screenshot](https://cdn.discordapp.com/attachments/997267766828605490/1328957475264794634/ll__limy__ll_39540_Cracked_mirror_438a72d0-4d0b-4af4-88af-0d98c917cd96.png?ex=67889798&is=67874618&hm=d83e36f9a2f54d7839779a24d4d5f96d0b5c2695714a73b4d729b397a04ff56e&)
