@@ -2,7 +2,7 @@
 # [/] Slash command builder!
 ### Español / Spanish
 ## Info breve:
-- (ℹ️) Simple SlashCommandBuilder (command handler), para tener tu proyecto un poco más ordenado!
+- Simple SlashCommandBuilder (command handler), para tener tu proyecto un poco más ordenado!
 ## Adicional:
 + (+) Recuerda agregar el token y la ID de tu bot al archivo JSON.
 ```json
