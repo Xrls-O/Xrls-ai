@@ -14,7 +14,7 @@
 ```
 + (+) Clonar repositorio
 ```git
-git clone https://github.com/Gastoonit/builder-discord.js.git
+git clone https://github.com/Xrls-O/Xrls-ai
 ```
 + (/) Mover los archivos afuera para el correcto funcionamiento ✔️
 ```git
