@@ -7,7 +7,7 @@ module.exports = {
     run: async (client, interaction) => {
 	    
      return interaction.reply({
-	content: "- 🙋 | hola, soy un bot alegre! // hi i'm a happy bot",
+	content: "- | hola, soy un bot alegre! // hi i'm a happy bot",
 	ephemeral: false
      });
 
