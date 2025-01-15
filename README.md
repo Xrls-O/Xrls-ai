@@ -22,7 +22,7 @@ mv builder-discord.js/* .
 ```
 ## Resultado:
 ![Screenshot](https://media.discordapp.net/attachments/806003708591996968/1147003160469176471/Screenshot_20230901_000042_Discord.jpg)
-- (🌟) !Puedes darme una estrella!
+
 
 ### English / Inglés
 ## Brief info:
@@ -43,4 +43,4 @@ mv builder-discord.js/* .
 ```
 ## Screenshot:
 ![Screenshot](https://www.facebook.com/share/19wTYxraPG/)
-- (🌟) You can give me a star is free!
+
