@@ -42,5 +42,5 @@ git clone https://github.com/Gastoonit/builder-discord.js.git
 mv builder-discord.js/* .
 ```
 ## Screenshot:
-![Screenshot](https://media.discordapp.net/attachments/806003708591996968/1147003160469176471/Screenshot_20230901_000042_Discord.jpg)
+![Screenshot](https://www.facebook.com/share/19wTYxraPG/)
 - (🌟) You can give me a star is free!
